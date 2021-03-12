@@ -1,3 +1,7 @@
 git text
 
+<<<<<<< HEAD
 add testing message [hwang]
+=======
+remote file
+>>>>>>> 1752739f2e4da1bcd676b2a860807a89cfc391b9
